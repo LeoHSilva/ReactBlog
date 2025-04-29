@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.icon-normal {
+  @apply bg-gray-100 text-gray-600;
+}
+
+.icon-selected {
+  @apply bg-black text-white;
+}
+
+body {
+  @apply bg-slate-800
+}
+
+input {
+  @apply bg-white
+}
